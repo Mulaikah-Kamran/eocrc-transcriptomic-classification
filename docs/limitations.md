@@ -1,5 +1,7 @@
 # Limitations — What This Study Does and Does Not Establish
 
+Precisely scoping a study's claims is a sign of rigor, not weakness — it's exactly what separates a defensible research finding from an overstated one. This section states plainly what this project's evidence supports and what it doesn't, so every claim made elsewhere in this repository can be trusted at face value.
+
 ## Does NOT establish
 - Causal EMT activation in tumor cells
 - That the 722 stable genes are validated biomarkers
