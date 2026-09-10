@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.pkl
+
+# Raw data -- not redistributed, see docs/data_provenance.md for how to obtain it
+data/raw/*
+!data/raw/.gitkeep
+
+# Generated intermediate files -- regenerable by running analyses/ in order,
+# not committed due to size (some are 100MB+)
+data/*.csv
+tcga/*.csv
+tcga/*.gz
+tcga/*.tsv
