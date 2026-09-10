@@ -1,0 +1,3 @@
+Cohort,n,EOCRC,LOCRC,Age range (EOCRC),Age range (LOCRC),Platform,Notes
+GSE213092 (discovery),98,48,50,25-49,71-80,Illumina HiSeq 2500 (single),"Single BioProject, tumor-only"
+TCGA-COAD (external validation),454,53,401,<50,31-90 (>=50),"GDC-harmonized (multi-site, STAR pipeline)","Severe class imbalance; site-vs-age p=0.0045 (partial, non-fatal confound)"

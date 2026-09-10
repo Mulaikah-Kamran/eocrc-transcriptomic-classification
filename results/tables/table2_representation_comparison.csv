@@ -1,0 +1,4 @@
+Representation,Feature construction,Model,Discovery CV AUC,External TCGA AUC,External permutation p
+"Gene-level (2,000 genes)","Robust-expression filter + top-2000 variance genes, unsupervised",Elastic Net logistic regression (nested CV),0.666,0.626,0.001
+Hallmark pathway (50 sets),Mean z-score of Hallmark member genes per pathway,Elastic Net logistic regression (nested CV),0.624,0.548,0.127
+Marx 8-gene panel,"8 externally nominated genes, no filtering/selection",Ridge logistic regression (nested CV),0.591,0.54,0.174
